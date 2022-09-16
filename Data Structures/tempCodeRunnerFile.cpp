@@ -1,0 +1,1 @@
+//pushing in a new element in stack (exact sma eimplementation as done in linked list Adding eleme
